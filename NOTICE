@@ -1,0 +1,21 @@
+Copyright (2025) Databricks, Inc.
+
+This Software includes software developed at Databricks (https://www.databricks.com/) and its use is subject to the included LICENSE file.
+
+________________
+This Software contains code from the following open source projects, licensed under the MIT license (https://opensource.org/license/mit):
+
+stackframe/react - https://www.npmjs.com/package/@stackframe/react
+Copyright 2024 Stackframe
+
+supabase/supabase-js - https://www.npmjs.com/package/@supabase/supabase-js
+Copyright (c) 2020 Supabase
+
+tanstack/query - https://github.com/tanstack/query
+Copyright (c) 2021-present Tanner Linsle
+
+remix-run/react-router - https://github.com/remix-run/react-router
+Copyright (c) React Training LLC 2015-2019 Copyright (c) Remix Software Inc. 2020-2021 Copyright (c) Shopify Inc. 2022-2023
+
+facebook/react - https://github.com/facebook/react
+Copyright (c) Meta Platforms, Inc. and affiliates.
